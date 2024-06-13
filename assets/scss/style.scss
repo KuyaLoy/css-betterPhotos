@@ -242,6 +242,17 @@ a {
   }
 }
 
+.upload {
+  &__container {
+  }
+  &__icon {
+  }
+  &__text {
+  }
+  &__alternative {
+  }
+}
+
 .gallery {
   background-color: $color-grey-light;
   grid-column: 2 / 3;
